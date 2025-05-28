@@ -1,0 +1,6 @@
+[
+    { 
+    "type":"filters.decimation",
+    "step": 100
+    }
+] 

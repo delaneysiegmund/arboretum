@@ -1,0 +1,11 @@
+[
+    {
+        "type" : "readers.las",
+        "filename" : "input.las"
+    },
+    {
+        "type" : "writers.las",
+        "compression":"laszip",
+        "filename" : "output.laz"
+    }
+]
