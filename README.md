@@ -1,4 +1,4 @@
-# arboretum
+# Arboretum
 GEOG 441 arboretum mapping project
 
 Link to ESRI interactive Web Map
